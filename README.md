@@ -1,3 +1,8 @@
+---
+Mauricio Alves de Souza Junior 
+RM: 556214
+
+---
 # 🚗 Sistema de Locadora de Veículos
 
 ![Java](https://img.shields.io/badge/Java-1.8+-blue.svg)
@@ -16,7 +21,8 @@ Projeto simples desenvolvido em **Java** com **Maven** para simular o aluguel de
 - ✅ Cálculo de multa por devolução atrasada (150% da diária por dia de atraso)
 - ✅ Testes automatizados com JUnit
 - ✅ Validação de entradas inválidas (ex: diária negativa ou 0 dias)
-  
+
+---
 O projeto inclui testes com o JUnit 4 para validar:
 
 Cálculo de custo normal
@@ -26,9 +32,5 @@ Aplicação de desconto
 Cálculo de multa
 
 Tratamento de exceções para entradas inválidas
----
 
 
-
-Mauricio Alves de Souza Junior 
-RM: 556214
